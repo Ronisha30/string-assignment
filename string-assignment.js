@@ -77,7 +77,7 @@ let two = 2;
 let stringOfOne = one.toString();
 console.log(stringOfOne);
 let stringOfTwo = two.toString();
-console.log(stringOfTwo);
+
 console.log(stringOfOne + stringOfTwo);
 
 // Bonus Given the string of ANY first and last name get the initials.
